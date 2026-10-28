@@ -1,2 +1,13 @@
-# khalis-bazaar12
-Production static website deployed with PromptForge
+# KHALIS BAZAAR
+
+Website built and deployed via **PromptForge**.
+
+Included pages:
+- `index.html`
+- `about.html`
+- `cart.html`
+- `checkout.html`
+- `contact.html`
+- `faq.html`
+- `product.html`
+- `shop.html`
